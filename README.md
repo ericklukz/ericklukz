@@ -1,5 +1,5 @@
 ### Erick de Luca
-~-Olá, Sou o Erick😁!
+-Olá, Sou o Erick😁!
 
 -🔎A procura de uma oportunidade na área de tecnologia.
 
