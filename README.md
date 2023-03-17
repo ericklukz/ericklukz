@@ -8,9 +8,6 @@
 -📚Matriz Curricular: Responsive Web Development (HTML5, CSS 3, JavaScript, JQuery, Bootstrap e JavaEE),Java, AI & ChatBot,Oracle SQL e PL/SQL e Scrum.
 
 -📫 Contato: erickluca9@gmail.com / https://www.linkedin.com/in/erick-de-luca-pereira/
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericklukz)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericklukz&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericklukz&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericklukz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
