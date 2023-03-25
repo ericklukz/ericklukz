@@ -3,7 +3,9 @@
 
 -🔎A procura de uma oportunidade na área de tecnologia.
 
--📚 Cursando Análise e Desenvolvimento de Sistemas na FIAP - 2° ano (Aclimação).
+-📚Análise e Desenvolvimento de Sistemas na FIAP - 2° ano (Aclimação).
+
+-👾Dev back-end / Data Scientist / Engineer
 
 -📚Matriz Curricular: Responsive Web Development (HTML5, CSS 3, JavaScript, JQuery, Bootstrap e JavaEE),Java, AI & ChatBot,Oracle SQL e PL/SQL e Scrum.
 
