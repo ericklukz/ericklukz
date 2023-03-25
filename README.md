@@ -5,7 +5,7 @@
 
 -📚Análise e Desenvolvimento de Sistemas na FIAP - 2° ano (Aclimação).
 
--👾Dev back-end / Data Scientist / Engineer
+-👾Dev Back-end / Data Scientist / Data Engineer
 
 -📚Matriz Curricular: Responsive Web Development (HTML5, CSS 3, JavaScript, JQuery, Bootstrap e JavaEE),Java, AI & ChatBot,Oracle SQL e PL/SQL e Scrum.
 
