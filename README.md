@@ -9,7 +9,7 @@
 
 -📚Matriz Curricular: Responsive Web Development (HTML5, CSS 3, JavaScript, JQuery, Bootstrap e JavaEE),Java, AI & ChatBot,Oracle SQL e PL/SQL e Scrum.
 
-[desabilitado]<>(![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericklukz&show_icons=true&theme=transparent))<>
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericklukz&show_icons=true&theme=transparent)-->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
