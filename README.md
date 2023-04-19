@@ -7,7 +7,7 @@
 
 -👾Dev Back-end / Data Scientist / Data Engineer
 
--📚Matriz Curricular: Responsive Web Development (HTML5, CSS 3, JavaScript, JQuery, Bootstrap e JavaEE),Java, AI & ChatBot,Oracle SQL e PL/SQL e Scrum.
+-📚Matriz Curricular: Responsive Web Development (HTML5, CSS 3, JavaScript, JQuery, Bootstrap e JavaEE), Back-End (Java, Python) e Data (AI , Oracle SQL e PL/SQL).
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericklukz&show_icons=true&theme=transparent)-->
 
