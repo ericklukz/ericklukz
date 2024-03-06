@@ -3,7 +3,7 @@
 
 -🔎A procura de uma oportunidade na área de tecnologia.
 
--📚Análise e Desenvolvimento de Sistemas na FIAP - 2° ano (Aclimação).
+-📚Análise e Desenvolvimento de Sistemas na FIAP - Concluído (Aclimação).
 
 -👾Dev Back-end / Data Scientist / Data Engineer.
 
