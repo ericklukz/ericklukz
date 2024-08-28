@@ -1,7 +1,7 @@
 ### Erick de Luca
 -Olá, Sou o Erick😁!
 
--🔎A procura de uma oportunidade na área de tecnologia.
+-💻Estagiário em Suporte de TI na [ServCredi](https://www.servcredi.com.br/)
 
 -📚Análise e Desenvolvimento de Sistemas na FIAP - Concluído (Aclimação).
 
