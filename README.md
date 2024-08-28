@@ -4,7 +4,7 @@
 -💻Estagiário em Suporte de TI na [ServCredi](https://www.servcredi.com.br/)
 
 -📚Análise e Desenvolvimento de Sistemas na FIAP - Concluído (Aclimação).
- 📚Tecnologia em Banco de Dados na UNINOVE - 1° Semestre (EAD).
+-📚Tecnologia em Banco de Dados na UNINOVE - 1° Semestre (EAD).
 
 -👾Dev Back-end / Data Scientist / Data Engineer / IT Support
 
