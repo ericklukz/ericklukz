@@ -4,10 +4,9 @@
 -💻Estagiário em Suporte de TI na [ServCredi](https://www.servcredi.com.br/)
 
 -📚Análise e Desenvolvimento de Sistemas na FIAP - Concluído (Aclimação).
+ 📚Tecnologia em Banco de Dados na UNINOVE - 1° Semestre (EAD).
 
--👾Dev Back-end / Data Scientist / Data Engineer.
-
--📚Matriz Curricular: Responsive Web Development (HTML5, CSS 3, JavaScript, JQuery, Bootstrap e JavaEE), Back-End (Java, Python) e Data (AI , Oracle SQL e PL/SQL).
+-👾Dev Back-end / Data Scientist / Data Engineer / IT Support
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericklukz&show_icons=true&theme=transparent)-->
 
