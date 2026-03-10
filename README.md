@@ -1,13 +1,11 @@
 ### Erick de Luca
 -Olá, Sou o Erick😁!
 
--💻Estagiário em Desenvolvimento Fullstack na [ServCredi](https://www.servcredi.com.br/)
+-💻Analista em Desenvolvimento Fullstack no [Banco BTG](https://www.btgpactual.com)
 
 -📚Análise e Desenvolvimento de Sistemas na FIAP - Concluído (Aclimação).
 
--📚Tecnologia em Banco de Dados na UNINOVE - 1° Semestre (EAD).
-
--👾Dev Back-end / Data Scientist / Data Engineer / IT Support
+-👾Dev Back-end / Data Scientist / Data Engineer / AWS Cloud
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericklukz&show_icons=true&theme=transparent)-->
 
