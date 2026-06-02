@@ -3,7 +3,7 @@
 
 -💻Analista em Desenvolvimento Fullstack no [Banco BTG Pactual](https://www.btgpactual.com)
 
--📚Análise e Desenvolvimento de Sistemas na FIAP - Concluído (Aclimação).
+-📚Formado em Análise e Desenvolvimento de Sistemas na FIAP.
 
 -👾Dev Back-end / Data Scientist / Data Engineer / AWS Cloud
 
