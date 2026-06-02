@@ -1,7 +1,7 @@
 ### Erick de Luca
 -Olá, Sou o Erick😁!
 
--💻Analista em Desenvolvimento Fullstack no [Banco BTG Pactual](https://www.btgpactual.com)
+-💻Desenvolvedor .NET/C# no [Banco BTG Pactual](https://www.btgpactual.com)
 
 -📚Formado em Análise e Desenvolvimento de Sistemas na FIAP.
 
